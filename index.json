@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "PennyLane-IonQ",
+  "versions": [
+    {
+      "commit": "47a9a2d07eba9e05efcebee0c3a82e7580e1c76c",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:43:01.210988+00:00"
+    }
+  ]
+}
