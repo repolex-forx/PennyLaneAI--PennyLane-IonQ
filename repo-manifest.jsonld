@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/PennyLane-IonQ/commit/47a9a2d07eba9e05efcebee0c3a82e7580e1c76c",
       "git:hexsha": "47a9a2d07eba9e05efcebee0c3a82e7580e1c76c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PennyLaneAI/PennyLane-IonQ/commit/f8c122bf36632ab9ec8f60b67564c28ebec42e55",
